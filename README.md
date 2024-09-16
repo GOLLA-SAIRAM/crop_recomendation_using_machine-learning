@@ -1,4 +1,5 @@
-Crop Recommendation System Using Machine Learning
+# CROP RECOMMENDATION SYSTEM USING MACHINE LEARNING
+
 Project Overview
 
 The Crop Recommendation System is a web-based application that predicts the most suitable crop to grow based on various environmental factors and soil nutrient content. The application leverages a machine learning model trained on historical agricultural data and provides recommendations by inputting the following parameters:
