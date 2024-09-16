@@ -1,10 +1,10 @@
 # CROP RECOMMENDATION SYSTEM USING MACHINE LEARNING
 
-Project Overview
+##Project Overview
 
 The Crop Recommendation System is a web-based application that predicts the most suitable crop to grow based on various environmental factors and soil nutrient content. The application leverages a machine learning model trained on historical agricultural data and provides recommendations by inputting the following parameters:
 
-Nitrogen (N): Nutrient essential for plant growth.
+##Nitrogen (N): Nutrient essential for plant growth.
 Phosphorus (P): Helps with the energy transfer in plants.
 Potassium (K): Important for overall plant health.
 Temperature: Measured in Celsius, crucial for plant metabolic processes.
